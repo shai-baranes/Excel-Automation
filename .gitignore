@@ -1,0 +1,5 @@
+Results/*
+!Results/*.xlsx
+build/*
+dist/*
+pivot-table_executable.spec
